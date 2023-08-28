@@ -22,7 +22,7 @@ h2 {
 }
 
 h3 {
-  font-size: 3rem;
+  font-size: 2.75rem;
 }
 
 p, li {
@@ -45,6 +45,12 @@ a:hover {
   color: #00ffff;
 }
 
+figcaption {
+  text-align: center;
+}
+
 img {
+  display: block;
   border: 3px double #ffffff;
+  margin:auto;
 }
